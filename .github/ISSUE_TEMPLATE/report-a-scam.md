@@ -1,13 +1,4 @@
 ---
-name: report-a-scam
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: 🚨 Report a Scam
 about: Help us expose fake internships, useless certifications, or scam tactics.
 title: "[FAKE INTERNSHIP] - Company Name"
